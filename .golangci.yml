@@ -1,0 +1,5 @@
+# .golangci.yml
+run:
+  enable-all: true
+  skip-dirs: vendor
+  timeout: 5m
