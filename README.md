@@ -1,1 +1,1 @@
-# Go-Component-Repository
+# Go-Component
