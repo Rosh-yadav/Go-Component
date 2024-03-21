@@ -33,5 +33,5 @@ To run the Go application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/go-application.git
-   cd go-application
+   git clone https://github.com/Rosh-yadav/Go-Component.git
+   cd go-Component
