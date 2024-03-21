@@ -38,12 +38,10 @@ To run the Go application locally, follow these steps:
 
 2. Build the Docker image:
    
- ```bash
 docker build -t go-app .
 
 3.Run the Docker container:
 
- ```bash
 docker run -p 8080:8080 go-app
 
 Access the application in your web browser at http://localhost:8080.   
